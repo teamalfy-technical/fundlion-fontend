@@ -80,6 +80,13 @@
              </a>
          </li>
 
+         <li class="sidenav-item">
+             <a href="lending-partners">
+                 <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
+                 <span class="sidenav-label">Lending Partners</span>
+             </a>
+         </li>
+
 
          <li class="sidenav-heading" style="font-size:16px;color: #fff;">HELP</li>
          <li class="sidenav-item">
