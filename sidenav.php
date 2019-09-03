@@ -11,7 +11,7 @@
          <li class="sidenav-heading" style="font-size:16px;color: #fff;">PAGES</li>
          <li class="sidenav-item">
              <a href="homepage.php" aria-haspopup="true">
-                 <span class="sidenav-icon icon icon-works">&#103;</span>
+                 <!-- <span class="sidenav-icon icon icon-works">&#103;</span> -->
                  <span class="sidenav-label">Homepage</span>
              </a>
          </li>
@@ -56,8 +56,14 @@
          <li class="sidenav-heading" style="font-size:16px;color: #fff;">SECTIONS</li>
          <li class="sidenav-item">
              <a href="loans">
-                 <span class="sidenav-icon icon icon-works">&#192;</span>
+                 <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">Loans</span>
+             </a>
+         </li>
+         <li class="sidenav-item">
+             <a href="business-model">
+                 <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
+                 <span class="sidenav-label">Business Model</span>
              </a>
          </li>
 
