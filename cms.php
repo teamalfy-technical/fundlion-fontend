@@ -452,13 +452,13 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="#" style="color: #494949; text-decoration: none;">
+                                <a href="business-model" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
                                                 <div class="media-middle media-body">
                                                     <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        About Us
+                                                        Business Model
                                                     </p>
                                                 </div>
                                             </div>
@@ -468,13 +468,13 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="#" style="color: #494949; text-decoration: none;">
+                                <a href="about-us" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
                                                 <div class="media-middle media-body">
                                                     <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Helping Small Businesses Grow
+                                                        About Us
                                                     </p>
                                                 </div>
                                             </div>
