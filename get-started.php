@@ -220,7 +220,7 @@
                 <!-- <div class="container"> -->
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
-                        <h2 style="color: #000000;font-weight: 900;">Edit <span style="font-weight: 100;">How It Works</span></h2>
+                        <h2 style="color: #000000;font-weight: 900;">Edit <span style="font-weight: 100;">Get Started</span></h2>
                     </div>
                 </div>
 
