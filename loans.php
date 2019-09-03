@@ -220,7 +220,9 @@
                 <!-- <div class="container"> -->
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
-                        <h2 style="color: #000000;font-weight: 900;">Edit <span style="font-weight: 100;">Loans</span></h2>
+                        <h2 style="color: #000000;font-weight: 900;">Edit <span style="font-weight: 100;">Loans</span> </h2>
+                        <a href="" data-toggle="modal" data-target="#loanModal" class="pull-right"> + Add New Loan</a>
+
                     </div>
                 </div>
 
@@ -236,12 +238,11 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
-                                </div>
-
-                                <div class="col-lg-2 col-md-2 col-sm-12">
-                                    <div class="form-group">
-                                        <div class="img-picker"></div>
-                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]" data-toggle="modal" data-target="#loanModal">REMOVE</label>
                                     </div>
                                 </div>
 
@@ -250,12 +251,11 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
-                                </div>
-
-                                <div class="col-lg-2 col-md-2 col-sm-12">
-                                    <div class="form-group">
-                                        <div class="img-picker"></div>
-                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
                                     </div>
                                 </div>
 
@@ -264,12 +264,50 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
                                 </div>
 
                                 <div class="col-lg-2 col-md-2 col-sm-12">
                                     <div class="form-group">
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-2 col-md-2 col-sm-12">
+                                    <div class="form-group">
+                                        <div class="img-picker"></div>
+                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-2 col-md-2 col-sm-12">
+                                    <div class="form-group">
+                                        <div class="img-picker"></div>
+                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
                                     </div>
                                 </div>
                             </div>
@@ -281,12 +319,11 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
-                                </div>
-
-                                <div class="col-lg-2 col-md-2 col-sm-12">
-                                    <div class="form-group">
-                                        <div class="img-picker"></div>
-                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
                                     </div>
                                 </div>
 
@@ -295,12 +332,11 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
-                                </div>
-
-                                <div class="col-lg-2 col-md-2 col-sm-12">
-                                    <div class="form-group">
-                                        <div class="img-picker"></div>
-                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
                                     </div>
                                 </div>
 
@@ -309,12 +345,50 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
                                 </div>
 
                                 <div class="col-lg-2 col-md-2 col-sm-12">
                                     <div class="form-group">
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-2 col-md-2 col-sm-12">
+                                    <div class="form-group">
+                                        <div class="img-picker"></div>
+                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-2 col-md-2 col-sm-12">
+                                    <div class="form-group">
+                                        <div class="img-picker"></div>
+                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
                                     </div>
                                 </div>
                             </div>
@@ -326,12 +400,11 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
-                                </div>
-
-                                <div class="col-lg-2 col-md-2 col-sm-12">
-                                    <div class="form-group">
-                                        <div class="img-picker"></div>
-                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
                                     </div>
                                 </div>
 
@@ -340,12 +413,11 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
-                                </div>
-
-                                <div class="col-lg-2 col-md-2 col-sm-12">
-                                    <div class="form-group">
-                                        <div class="img-picker"></div>
-                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
                                     </div>
                                 </div>
 
@@ -354,314 +426,65 @@
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
                                     </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
                                 </div>
 
                                 <div class="col-lg-2 col-md-2 col-sm-12">
                                     <div class="form-group">
                                         <div class="img-picker"></div>
                                         <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-2 col-md-2 col-sm-12">
+                                    <div class="form-group">
+                                        <div class="img-picker"></div>
+                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-2 col-md-2 col-sm-12">
+                                    <div class="form-group">
+                                        <div class="img-picker"></div>
+                                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                                    </div>
+                                    <div class="btn-group" id="status" data-toggle="buttons">
+                                        <label class="btn btn-default btn-on btn-xs active">
+                                            <input type="radio" value="1" name="multifeatured_module[module_id][status]" checked="checked">IN USE</label>
+                                        <label class="btn btn-default btn-off btn-xs ">
+                                            <input type="radio" value="0" name="multifeatured_module[module_id][status]">REMOVE</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="row">
+                                <div class="col container">
+                                    <div class="form-group">
+                                        <button type="submit" class="btn btn-primary pull-left">Save Changes</button>
                                     </div>
                                 </div>
                             </div>
 
-                            <button type="submit" class="btn btn-primary pull-right">Save</button>
 
                         </form>
 
-                    </div>
-                </div>
-
-
-
-                <div class="row" style="margin-top: 30px;" hidden>
-                    <div class="col-lg-10 col-lg-offset-1">
-                        <div class="row gutter-xs">
-                            <div class="col-lg-2 col-md-2">
-                                <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
-                                    <div class="card-header no-border">
-                                        <div class="media text-center">
-                                            <div class="media-middle media-center">
-                                                <a href="#">
-                                                    <img width="32" height="32" src="img/icons/review-icon.png" alt="review">
-                                                </a>
-                                            </div>
-                                            <div class="media-middle media-body">
-                                                <a style="color: #494949" href="#">
-                                                    <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Review Existing Loan Application
-                                                    </p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-2">
-                                <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
-                                    <div class="card-header no-border">
-                                        <div class="media text-center">
-                                            <div class="media-middle media-center">
-                                                <a href="#">
-                                                    <img width="32" height="32" src="img/icons/account-information-icon.png" alt="account">
-                                                </a>
-                                            </div>
-                                            <div class="media-middle media-body">
-                                                <a style="color: #494949" href="#">
-                                                    <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Upload Account Information
-                                                    </p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-2">
-                                <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
-                                    <div class="card-header no-border">
-                                        <div class="media text-center">
-                                            <div class="media-middle media-center">
-                                                <a href="#">
-                                                    <img width="32" height="32" src="img/icons/clipboard-icon.png" alt="account">
-                                                </a>
-                                            </div>
-                                            <div class="media-middle media-body">
-                                                <a style="color: #494949" href="#">
-                                                    <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Apply for a New Loan
-                                                    </p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-2">
-                                <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
-                                    <div class="card-header no-border">
-                                        <div class="media text-center">
-                                            <div class="media-middle media-center">
-                                                <a href="#">
-                                                    <img width="32" height="32" src="img/icons/upload-arrow-icon.png" alt="account">
-                                                </a>
-                                            </div>
-                                            <div class="media-middle media-body">
-                                                <a style="color: #494949" href="#">
-                                                    <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Upload Documents
-                                                    </p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-2">
-                                <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
-                                    <div class="card-header no-border">
-                                        <div class="media text-center">
-                                            <div class="media-middle media-center">
-                                                <a href="#">
-                                                    <img width="32" height="32" src="img/icons/eye-icon.png" alt="account">
-                                                </a>
-                                            </div>
-                                            <div class="media-middle media-body">
-                                                <a style="color: #494949" href="#">
-                                                    <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Explore Lenders
-                                                    </p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-2">
-                                <div class="card bg-success" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
-                                    <div class="card-header no-border">
-                                        <div class="media text-center">
-                                            <div class="media-middle media-center">
-
-                                            </div>
-                                            <div class="media-middle media-body">
-                                                <a style="color: #ffffff" href="#">
-                                                    <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Set an Appointment with a Fundlion Account manager
-                                                    </p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row gutter-xs" style="margin-top: 30px;" hidden>
-                    <div class="col-lg-10 col-lg-offset-1">
-                        <div class="card h-100" style="border-radius:20px;background: rgb(74,74,74);background: linear-gradient(0deg, #5a5a5a 0%, #a0a0a0 100%);">
-                            <div id="black-card"></div>
-                            <div class="card-body">
-                                <h4 class="text-center m-0" style="color: #fff;">Loan Application Status</h4>
-                                <div class="row">
-                                    <div class="col-lg-8 col-lg-offset-2">
-                                        <div class="row">
-                                            <div class="col-lg-6">
-                                                <div class="form-group">
-                                                    <div class="row">
-                                                        <label class="col-sm-3 control-label" for="form-control-6" style="color: #fff;line-height: 35px;font-weight: 100;font-size: 15px;">Provider: </label>
-                                                        <div class="col-sm-9">
-                                                            <select id="form-control-6" class="form-control" style="background-color: #ffffff00;color: #bfbfbf;border: 2px solid #fff;">
-                                                                <option value="">Barclays</option>
-                                                            </select>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-6">
-                                                <p class="text-center" style="color: #fff;line-height: 30px;font-size: 15px;font-weight: 400;">Loan Amount: £3,000</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row" style="margin-top: 30px;">
-                                    <div class="col-lg-10 col-lg-offset-1">
-                                        <div class="steps">
-                                            <ul class="steps-container">
-                                                <li style="width:25%;" class="activated">
-                                                    <div class="step">
-                                                        <div class="step-image"><span></span></div>
-                                                        <div class="step-current">Applied</div>
-                                                    </div>
-                                                </li>
-                                                <li style="width:25%;" class="activated">
-                                                    <div class="step">
-                                                        <div class="step-image"><span></span></div>
-                                                        <div class="step-current">Submitted</div>
-                                                    </div>
-                                                </li>
-                                                <li style="width:25%;" class="activated">
-                                                    <div class="step">
-                                                        <div class="step-image"><span></span></div>
-                                                        <div class="step-current">Reviewing</div>
-                                                    </div>
-                                                </li>
-                                                <li style="width:25%;">
-                                                    <div class="step">
-                                                        <div class="step-image"><span></span></div>
-                                                        <div class="step-current">Approved</div>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                            <div class="step-bar" style="width: 65%;"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row gutter-xs" style="margin-top: 30px;" hidden>
-                    <div class="col-lg-10 col-lg-offset-1">
-                        <hr style="margin-bottom: 50px;border: 1px solid #c2c2c2;">
-                        <div class="card h-100" style="border-radius:20px;">
-                            <div class="card-body">
-                                <h4 class="text-center" style="font-weight: 900;font-size: 25px;">See Your Funding Options</h4>
-                                <div class="row">
-                                    <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3">
-                                        <form style="margin-top: 30px;">
-                                            <div class="input-group" style="margin: 14px 0;">
-                                                <span class="input-group-addon">£</span>
-                                                <input class="form-control" type="number" placeholder="How much  finance do you need?">
-                                            </div>
-                                            <div class="form-group">
-                                                <select class="form-control" style="font-size: 12px;height: 32px;margin: 10px 0">
-                                                    <option>What is the finance for?</option>
-                                                </select>
-                                            </div>
-                                            <div class="form-group">
-                                                <select class="form-control" style="font-size: 12px;height: 32px;">
-                                                    <option>How long do you need the finance for?</option>
-                                                </select>
-                                            </div>
-                                            <div class="form-group">
-                                                <button class="btn bg-success" style="width: 100%; color: #fff;border-radius: 15px;">CONTINUE</button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row gutter-xs" style="margin-top: 30px;" hidden>
-                    <div class="col-lg-10 col-lg-offset-1">
-                        <hr style="margin-bottom: 50px;border: 1px solid #c2c2c2;">
-                        <div class="card h-100" style="border-radius:20px;">
-                            <div class="card-body">
-                                <h4 class="text-center">Banks & Online Lending Options</h4>
-                                <div class="row" style="margin-top: 30px;overflow-x: auto;white-space: nowrap;">
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/lloyds.jpg" alt="Lloyds">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/HSBC.jpg" alt="HSBC">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/Halifax.jpg" alt="Halifax">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/Barclays.jpg" alt="Barclays">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/lloyds.jpg" alt="Lloyds">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/HSBC.jpg" alt="HSBC">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/Halifax.jpg" alt="Halifax">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="banks col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                                        <div class="card" style="border-radius: 15px;">
-                                            <div class="card-image">
-                                                <img class="card-img img-responsive" style="box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9);border-radius: 15px;" src="img/partners/Barclays.jpg" alt="Barclays">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <!-- </div> -->
@@ -674,6 +497,65 @@
         </div>
       </div> -->
     </div>
+
+
+    <!-- add loan modal -->
+    <div class="modal fade" id="loanModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <form action="" method="post">
+                    <div class="modal-header text-center">
+                        <h4 class="modal-title w-100 font-weight-bold">Register for this Event</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body mx-3">
+                        <div class="form-group">
+                            <label for="">Loan Type</label>
+                            <select class="form-control">
+                                <option>Small Business Loan</option>
+                                <option>Lending Product</option>
+                                <option>Industry Specific Funding Option</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="">Loan Name</label>
+                            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Loan Name" value="Loan Name">
+                        </div>
+                        <div class="form-group">
+                            <label for="">Select Loan Icon</label>
+                            <div class="img-picker" style="max-wdith:200px;"></div>
+                        </div>
+
+                    </div>
+
+                    <div class="modal-footer d-flex justify-content-center">
+                        <button type="button" class="btn btn-danger" class="close" data-dismiss="modal" aria-label="Close">Cancel</button>
+                        <button type="submit" class="btn">Add</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- remove loan modal -->
+    <div class="modal fade" id="removeLoanModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <form action="" method="post">
+
+                    <div class="modal-footer d-flex justify-content-center">
+                        <h4 class="pull-left">Are you sure you want to remove this loan item?</h4>
+
+                        <button type="button" class="btn" class="close" data-dismiss="modal" aria-label="Close">Cancel</button>
+                        <button type="submit" class="btn btn-danger">Remove</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
     <script src="js/vendor.min.js"></script>
     <script src="js/elephant.min.js"></script>
     <script src="js/application.min.js"></script>
@@ -764,6 +646,13 @@
                 name: 'images'
             });
         })
+
+        // switch
+        $('input[name="multifeatured_module[module_id][status]"]').change(function() {
+            if ($(this).is(':checked') && $(this).val() == '0') {
+                $('#removeLoanModal').modal('show');
+            }
+        });
     </script>
 </body>
 
