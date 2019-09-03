@@ -66,6 +66,12 @@
                  <span class="sidenav-label">Business Model</span>
              </a>
          </li>
+         <li class="sidenav-item">
+             <a href="about-us">
+                 <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
+                 <span class="sidenav-label">About Us</span>
+             </a>
+         </li>
 
 
          <li class="sidenav-heading" style="font-size:16px;color: #fff;">HELP</li>
