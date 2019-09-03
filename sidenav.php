@@ -86,6 +86,12 @@
                  <span class="sidenav-label">Lending Partners</span>
              </a>
          </li>
+         <li class="sidenav-item">
+             <a href="get-started">
+                 <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
+                 <span class="sidenav-label">Get Started</span>
+             </a>
+         </li>
 
 
          <li class="sidenav-heading" style="font-size:16px;color: #fff;">HELP</li>
