@@ -21,6 +21,8 @@
     <link rel="stylesheet" href="css/application.min.css">
     <link rel="stylesheet" href="css/step-progress.min.css">
     <link rel="stylesheet" href="css/style4.css">
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="  crossorigin="anonymous"></script>
     <style>
         .banks {
             display: inline-block;
@@ -243,6 +245,9 @@
                             <button type="submit" class="btn btn-primary pull-right">Save</button>
 
                         </form>
+                        <script type="text/javascript">
+                    		$('.img-picker').append('<div class"text-center"><img src="img/2ef1cfdcf1da5256d7b994983bd8d457.jpg" class="img-responsive img-rounded" /></div>');
+                    	</script>
 
                     </div>
                 </div>
@@ -551,8 +556,8 @@
       </div> -->
     </div>
     <script src="js/vendor.min.js"></script>
-    <script src="js/elephant.min.js"></script>
-    <script src="js/application.min.js"></script>
+    <!-- <script src="js/elephant.min.js"></script> -->
+    <!-- <script src="js/application.min.js"></script> -->
 
 
     <script>
@@ -612,7 +617,7 @@
 
             // Private function for creating a preview element
             function create_preview(that, src, settings) {
-
+            	console.log(src);
                 // The preview image
                 var picker_preview_image = $('<img src="' + src + '" class="img-responsive img-rounded" />');
 

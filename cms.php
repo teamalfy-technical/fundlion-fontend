@@ -232,7 +232,7 @@
                         <div class="row gutter-xs">
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="homepage" style="color: #494949; text-decoration: none;">
+                                <a href="homepage.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
@@ -247,7 +247,7 @@
                                 </a>
                             </div>
 
-                            <div class="col-lg-2 col-md-2">
+                            <!-- <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -261,9 +261,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                            <!-- <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -277,9 +277,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                            <!-- <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -293,9 +293,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                            <!-- <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -309,9 +309,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -325,9 +325,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                            <!-- <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -341,9 +341,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -357,9 +357,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                          <!--   <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -373,9 +373,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -389,9 +389,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -405,9 +405,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -421,7 +421,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
 
                         </div>
@@ -436,7 +436,7 @@
                         <div class="row gutter-xs">
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="loans" style="color: #494949; text-decoration: none;">
+                                <a href="loans.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
@@ -452,7 +452,7 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="business-model" style="color: #494949; text-decoration: none;">
+                                <a href="business-model.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
@@ -468,7 +468,7 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="about-us" style="color: #494949; text-decoration: none;">
+                                <a href="about-us.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
@@ -484,13 +484,13 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="#" style="color: #494949; text-decoration: none;">
+                                <a href="how-it-works.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
                                                 <div class="media-middle media-body">
                                                     <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Our Team
+                                                        How It Works
                                                     </p>
                                                 </div>
                                             </div>
@@ -500,13 +500,13 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="#" style="color: #494949; text-decoration: none;">
+                                <a href="lending-partners.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
                                                 <div class="media-middle media-body">
                                                     <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Careers
+                                                        Lending Partners
                                                     </p>
                                                 </div>
                                             </div>
@@ -516,13 +516,13 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="#" style="color: #494949; text-decoration: none;">
+                                <a href="get-started.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
                                                 <div class="media-middle media-body">
                                                     <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Events
+                                                        Get Started
                                                     </p>
                                                 </div>
                                             </div>
@@ -532,13 +532,13 @@
                             </div>
 
                             <div class="col-lg-2 col-md-2">
-                                <a href="#" style="color: #494949; text-decoration: none;">
+                                <a href="footer-edit.php" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
                                             <div class="media text-center">
                                                 <div class="media-middle media-body">
                                                     <p class="text-dark" style="margin-top: 8px;line-height: normal;">
-                                                        Investor Relations
+                                                        Footer
                                                     </p>
                                                 </div>
                                             </div>
@@ -547,7 +547,7 @@
                                 </a>
                             </div>
 
-                            <div class="col-lg-2 col-md-2">
+                            <!-- <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -561,9 +561,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -577,9 +577,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -593,9 +593,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                           <!--  <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -609,9 +609,9 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
 
-                            <div class="col-lg-2 col-md-2">
+                            <!-- <div class="col-lg-2 col-md-2">
                                 <a href="#" style="color: #494949; text-decoration: none;">
                                     <div class="card" style="border-radius: 20px; box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.9); height: 120px;">
                                         <div class="card-header no-border">
@@ -626,7 +626,7 @@
                                     </div>
                                 </a>
                             </div>
-
+ -->
 
                         </div>
                     </div>

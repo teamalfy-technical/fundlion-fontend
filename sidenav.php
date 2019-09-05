@@ -55,45 +55,45 @@
 
          <li class="sidenav-heading" style="font-size:16px;color: #fff;">SECTIONS</li>
          <li class="sidenav-item">
-             <a href="loans">
+             <a href="loans.php">
                  <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">Loans</span>
              </a>
          </li>
          <li class="sidenav-item">
-             <a href="business-model">
+             <a href="business-model.php">
                  <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">Business Model</span>
              </a>
          </li>
          <li class="sidenav-item">
-             <a href="about-us">
+             <a href="about-us.php">
                  <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">About Us</span>
              </a>
          </li>
 
          <li class="sidenav-item">
-             <a href="how-it-works">
+             <a href="how-it-works.php">
                  <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">How It Works</span>
              </a>
          </li>
 
          <li class="sidenav-item">
-             <a href="lending-partners">
+             <a href="lending-partners.php">
                  <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">Lending Partners</span>
              </a>
          </li>
          <li class="sidenav-item">
-             <a href="get-started">
+             <a href="get-started.php">
                  <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">Get Started</span>
              </a>
          </li>
          <li class="sidenav-item">
-             <a href="footer-edit">
+             <a href="footer-edit.php">
                  <!-- <span class="sidenav-icon icon icon-works">&#192;</span> -->
                  <span class="sidenav-label">Footer</span>
              </a>
